@@ -1,11 +1,12 @@
 num1= float(input("Enter the first number: "))
 num2= float(input("Enter the second number: "))
 
+print("Its Shruu..!")
 print("\nChoose an operation: ")
 print("+  for addition")
 print("-  for subtraction")
 print("*  for multiplication")
-print("/  for division")
+print("/  for division  ")
 
 op=input("Enter your choice: ")
 
